@@ -1,0 +1,8 @@
+nms-acm
+nms-adm
+nms-hybrid
+nginx-appprotect-dos-arbitrator
+nginx-devportal
+nginx-ingress
+nginx-service-mesh
+nms
